@@ -1,0 +1,174 @@
+Fwd: [EXTERNAL] High School Research Inquiry  -  Shriya Venkat  
+Shriya Venky
+​sowmya sridhar​
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: Fatma Arslan <Fatma.Arslan@utsa.edu>
+Date: February 15, 2026 at 2:44:52 PM CST
+To: Shriya Venky <shriyavenkat08@hotmail.com>
+Subject: Re: [EXTERNAL] High School Research Inquiry  -  Shriya Venkat
+
+﻿
+Shriya, I looked at the code you posted at the Git, it looks very good however its important to also understand some background about the work..
+
+I suggest you read the paper I am attaching in this email. They are using data there from NCBI page, they listed the link in the paper for the data ..These data are usually .tar files and they are ready to process..Kaggle also has a not very big but beginner friendly single cell RNA sequencing examples..
+This paper is includes many parts, my suggestion is understand maybe a few sections and try to impelement by using the data set they used and go from there..I am sharing the paper link with you from my google drive (UTSA drive is much more restrictive) 
+
+https://drive.google.com/file/d/1FFsFhnuoZT3Xo6QX-HPa2YmVjPvjuRT8/view?usp=sharing
+
+Let me know if you have any more questions..
+From: Shriya Venky <shriyavenkat08@hotmail.com>
+Sent: Sunday, February 8, 2026 8:15 PM
+To: Fatma Arslan <Fatma.Arslan@utsa.edu>
+Subject: Re: [EXTERNAL] High School Research Inquiry - Shriya Venkat
+ 
+Hello Dr. Arslan,
+
+I hope you are having a great evening! Here is what I was able to achieve so far in the project: 
+
+venkashr/cancer_gene_expression: Cancer gene expression for Dr. Arslan.
+
+I tried getting the data for lung and breast cancer but I am having a hard time finding out what datasets to use. Can you please point me to the exact datasets to download and use for analysis.  Do you think I am headed in the right direction? Thank you so much!
+
+Thanks again,
+Shriya Venkat
+From: Shriya Venky
+Sent: Saturday, January 31, 2026 10:40 PM
+To: Fatma Arslan <Fatma.Arslan@utsa.edu>
+Subject: Re: [EXTERNAL] High School Research Inquiry - Shriya Venkat
+ 
+Hello Mr. Arslan,
+I hope you are having a great day! Thank you so much for your response! I am very excited to start this project and will begin right away. I will send you the form when my teacher gives it to me. Thanks again for your help!
+
+Thanks,
+Shriya Venkat
+
+On Jan 24, 2026, at 11:49 AM, Shriya Venky <shriyavenkat08@hotmail.com> wrote:
+
+﻿
+Hello Dr.  Arslan
+
+Thanks you for giving me detailed instructions on how to start. 
+
+I have a basic familiarity on pandas, and sci-kit learn libraries and am willing to expand my knowledge on scanpy. I have watched some basic tutorials on how to use scanpy. 
+
+Can you please guide me on how to get the dataset to use from the 10xGenonics site? I tried going to it, but was not able to understand how to get the gene expression data for the brest and lung cancers. 
+
+I am also looking into videos to learn about gene mutation and cancer to understand the subject better. Please guide me if you have any material I can read to improve my understanding.
+
+From a timeline perspective, when are we planning to start this project? For my school requirements, I need to complete an internship to graduate. Would it be possible for you to fill out a Google Form so I can complete this?
+
+Thanks and best regards
+Shriya Venkat
+
+
+On Jan 24, 2026, at 7:54 AM, sowmya sridhar <sowmyasridhar@hotmail.com> wrote:
+
+﻿
+Hello Dr.  Arslan
+
+Thanks you for giving me detailed instructions on how to start. 
+
+I have a basic familiarity on pandas, and sci-kit learn libraries and am willing to expand my knowledge on scanpy. I have watched some basic tutorials on how to use scanpy. 
+
+Can you please guide me on how to get the dataset to use from the 10xGenonics site? I tried going to it, but was not able to understand how to get the gene expression data for the brest and lung cancers. 
+
+I am also looking into videos to learn about gene mutation and cancer to understand the subject better. Please guide me if you have any material I can read to improve my understanding.
+
+From a timeline perspective, when are we planning to start this project?
+
+Thanks and best regards
+Shriya
+
+
+From: Shriya Venky <shriyavenkat08@hotmail.com>
+Sent: Tuesday, January 20, 2026 4:34 PM
+To: sowmya sridhar <sowmyasridhar@hotmail.com>
+Subject: Fwd: [EXTERNAL] High School Research Inquiry - Shriya Venkat
+
+
+Sent from my iPhone
+
+Begin forwarded message:
+
+From: Fatma Arslan <Fatma.Arslan@utsa.edu>
+Date: January 20, 2026 at 9:48:08 AM CST
+To: Shriya Venky <shriyavenkat08@hotmail.com>
+Subject: Re: [EXTERNAL] High School Research Inquiry  -  Shriya Venkat
+
+﻿
+Hi Shriya, 
+
+I am mostly interested in genomics of Cancer..As a start a project like below can be interesting: 
+
+
+You can look into : 
+How do patterns of gene expression differ between two types of cancer, and what can these differences tell us about disease biology and health?
+Genes control how cells function. In cancer, some genes become unusually active or inactive, leading to uncontrolled cell growth. Scientists study gene expression data to understand how different cancers behave and how treatments can be improved. In this project, you will use real or realistic gene-expression data and data science techniques to compare two cancer types.
+You will analyze a gene-expression dataset containing samples from two different cancer types (for example, breast cancer and lung cancer). Each sample includes expression levels for multiple genes.
+Using data science tools, you will:
+Explore and clean the data
+Visualize gene-expression patterns
+Compare differences between the two cancer types
+Draw conclusions about what these differences might mean for health and medicine
+In this project you need to use Scanpy however before that you have to get used to Python's data science libraries like pandas, numpy, sciklearn..you can get your data from 10xGenomics website..
+
+Let me know if you have any questions
+Best
+
+From: Shriya Venky <shriyavenkat08@hotmail.com>
+Sent: Thursday, January 15, 2026 3:09 PM
+To: Fatma Arslan <Fatma.Arslan@utsa.edu>
+Subject: Re: [EXTERNAL] High School Research Inquiry - Shriya Venkat
+ 
+Hello Dr. Arslan,
+
+I hope you are doing well! I wanted to follow up with you as to when you would be available to discuss a remote project. Thank you so much!
+
+Thank you,
+Shriya Venkat
+
+
+On Jan 12, 2026, at 4:42 PM, Fatma Arslan <Fatma.Arslan@utsa.edu> wrote:
+
+﻿
+Shriya, right now I don't have a research team but if you are interested I can assign a remote project to you ..
+
+From: Shriya Venky <shriyavenkat08@hotmail.com>
+Sent: Monday, January 12, 2026 11:07 AM
+To: Fatma Arslan <Fatma.Arslan@utsa.edu>
+Subject: [EXTERNAL] High School Research Inquiry - Shriya Venkat
+ 
+
+
+  **EXTERNAL EMAIL**
+  This email originated outside of The University of Texas at San Antonio.
+  Please exercise caution when clicking on links or opening attachments.
+ 
+
+Dear Dr. Fatma Arslan,
+
+
+
+My name is Shriya Venkat and I am currently a junior in high school. I am emailing you to ask if you would consider me for computer science research in your laboratory to gain experience.
+
+
+
+I am interested in the intersection between data science/machine learning and hypothesis-driven laboratory research, and I plan to go into computer science in the future. I am intrigued by your research on computer vision and image enhancement, such as in "Alpha-rooting image enhancement by paired splitting-signals," which directly supports my work with image processing in YOLO-based detection systems. It is for this reason that I would be very excited to have the opportunity to contribute to your laboratory's research. I would be thrilled to explore research regarding data science/machine learning and subjects similar further by being able to conduct research first-hand.
+
+
+
+I have attached my resume below. Please feel free to contact me if you have any questions. Thank you for your time.
+
+
+
+Thank you for your time and consideration of my request.
+
+
+
+Sincerely,  
+
+Shriya Venkat
